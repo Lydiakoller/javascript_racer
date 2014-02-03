@@ -1,0 +1,50 @@
+.registration {
+position: relative;
+width: 215px;
+padding: 24px;
+border-radius: 8px;
+background: rgb(226, 141, 162);
+background: -moz-linear-gradient(90deg, rgb(226, 141, 162) 24%, rgb(38, 169, 255) 98%);
+background: -webkit-linear-gradient(90deg, rgb(226, 141, 162) 24%, rgb(38, 169, 255) 98%);
+background: -o-linear-gradient(90deg, rgb(226, 141, 162) 24%, rgb(38, 169, 255) 98%);
+background: -ms-linear-gradient(90deg, rgb(226, 141, 162) 24%, rgb(38, 169, 255) 98%);
+background: linear-gradient(180deg, rgb(226, 141, 162) 24%, rgb(38, 169, 255) 98%);
+left: 50%;
+top: 129px;
+margin-left: -131.5px;
+}
+input[type="password"] {
+width: 130px;
+}
+input[type="text"] {
+margin-bottom: 8px;
+width: 130px;
+}
+
+button {
+background-color: #67796D;
+border-radius: 2px;
+color: white;
+-webkit-box-shadow: 0px 0px 13px 0px rgba(255, 255, 255, 0.72);
+-moz-box-shadow:    0px 0px 13px 0px rgba(255, 255, 255, 0.72);
+box-shadow:         0px 0px 13px 0px rgba(255, 255, 255, 0.72);
+}
+
+.car {
+width: 100px;
+display: block;
+margin-bottom: 22px;
+}
+
+#car1{
+
+}
+
+#car2{
+
+}
+
+#container{
+   width:960px;
+   margin:auto;
+}
